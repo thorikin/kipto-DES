@@ -1,2 +1,1 @@
-# kipto-DES
-TUGAS KRIPTOGRAFI DES
+tugas kriptografi pak alamsyah
